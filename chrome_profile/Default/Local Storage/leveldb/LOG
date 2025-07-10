@@ -1,0 +1,9 @@
+2025/07/10-10:34:24.908 dfd6c Reusing MANIFEST /home/vaidas/myProjects/linkedin-email-extractor/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/10-10:34:24.912 dfd6c Recovering log #3
+2025/07/10-10:34:24.914 dfd6c Reusing old log /home/vaidas/myProjects/linkedin-email-extractor/chrome_profile/Default/Local Storage/leveldb/000003.log 
+2025/07/10-10:34:31.187 dfd6d Level-0 table #5: started
+2025/07/10-10:34:31.189 dfd6d Level-0 table #5: 13421 bytes OK
+2025/07/10-10:34:31.193 dfd6d Delete type=0 #3
+2025/07/10-11:13:21.475 dfd6d Level-0 table #7: started
+2025/07/10-11:13:21.478 dfd6d Level-0 table #7: 8044 bytes OK
+2025/07/10-11:13:21.482 dfd6d Delete type=0 #4
